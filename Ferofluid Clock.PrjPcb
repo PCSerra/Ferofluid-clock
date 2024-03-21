@@ -1,10 +1,10 @@
 ﻿[Design]
 Version=1.0
 HierarchyMode=0
-ChannelRoomNamingStyle=0
+ChannelRoomNamingStyle=1
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
-ChannelRoomLevelSeperator=_
+ChannelDesignatorFormatString=$Component.$ChannelIndex
+ChannelRoomLevelSeperator=.
 OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
